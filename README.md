@@ -30,4 +30,9 @@ Veja os projetos criados para estudo de Data Science:
 * **Como criar uma Wordcloud em Python:** https://bit.ly/2OxsphM
 * **Como lidar com dados desbalanceados:** https://bit.ly/2ZlaNsV
 
-...
+
+
+---
+
+
+
