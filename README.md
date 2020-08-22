@@ -22,7 +22,7 @@ Organização de demandas/projetos utilizando monday.com e Pipefy.
 ## Projetos:
 Veja os projetos criados para estudo de Data Science:
 
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
+* **Análises Exploratórias: Curso LAB Hacker (Câmara dos Deputados DF)** https://is.gd/PXJ3GA
 * **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
 * **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
 * **Como Tratar Dados Ausentes com Pandas:** https://bit.ly/31KWSMN
